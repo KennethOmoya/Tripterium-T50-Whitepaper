@@ -1,5 +1,5 @@
 # Tripterium T50
-The Tripterium T50 Whitepaper titled **_Tripterium T50. A Next Generation Cryptocurrency Index Fund with a Venture Capital Feeder Fund_** was published on **_18 May 2018_** by Kenneth Omoya.
+The Tripterium T50 Whitepaper titled **_Tripterium T50. A Next Generation Cryptocurrency Index Fund with a Venture Capital Feeder Fund_** was published on **_18th May 2018_** by Kenneth Omoya.
 
 Tripterium T50 is a tokenized, closed-end index fund (CEF), which passively tracks the top fifty cryptocurrency assets by market capitalisation, in order to deliver healthy returns. The fund has a Venture Capital Feeder Fund, which will invest in expertly-vetted early stage blockchain technology companies that are seeking to undertake an Initial Coin Offering (ICO), therefore benefitting from the ICO returns.
 
