@@ -3,6 +3,8 @@ Tripterium T50 is a tokenized, closed-end index fund (CEF), which passively trac
 
 Profits from the Tripterium Venture Capital Feeder Fund will provide a constant stream of new money coming into the Tripterium T50 index fund, increasing the Net Asset Value (NAV) of the portfolio to the benefit of the T50 token holders.
 
+The Tripterium T50 token is an Ethereum ERC20 standard token that represents the holder’s ownership in the fund. The value of the T50 token is always backed by the Net Asset Value of the fund. A liquidation option that can be exercised via the smart contract, guarantees a minimum value for each T50 token based on its proportion of the NAV.
+
 # Bitcoin Whitepaper
 The Bitcoin Whitepaper titled **_Bitcoin: A Peer-to-Peer Electronic Cash System_** was published on **_31 October 2008_** by Satoshi Nakamoto.
 
