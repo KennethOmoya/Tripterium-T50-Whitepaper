@@ -3,7 +3,7 @@ The Tripterium T50 Whitepaper titled **_Tripterium T50. A Next Generation Crypto
 
 The paper details that **_"Tripterium T50 has been structured to take advantage of the efficient-market hypothesis (EMH) theory."_**
 
-The Tripterium T50 index fund is a tokenized, closed-end index fund, which passively tracks the top fifty cryptocurrency assets by market capitalisation, in orderwill harness the power of the market to deliver healthy returns. While the Venture Capital Feeder Fund invests in riskier ventures in order to gain from the higher returns associated with them. **_This allows for Tripterium T50 to benefit from this next generation asset class._**
+The Tripterium T50 index fund is a tokenized, closed-end index fund, which passively tracks the top fifty cryptocurrency assets by market capitalisation, in order to harness the power of the market to deliver healthy returns. While the Venture Capital Feeder Fund invests in riskier ventures in order to gain from the higher returns associated with them. **_This allows for Tripterium T50 to benefit from this next generation asset class._**
 
 **_The Tripterium T50 token is an Ethereum ERC20 standard token._** 
 
