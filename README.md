@@ -1,6 +1,8 @@
 # Tripterium T50 Whitepaper
 Tripterium T50 is a tokenized, closed-end index fund (CEF), which passively tracks the top fifty cryptocurrency assets by market capitalisation, in order to deliver healthy returns. The fund has a Venture Capital Feeder Fund, which will invest in expertly-vetted early stage blockchain technology companies that are seeking to undertake an Initial Coin Offering (ICO), therefore benefitting from the ICO returns.
 
+Profits from the Tripterium Venture Capital Feeder Fund will provide a constant stream of new money coming into the Tripterium T50 index fund, increasing the Net Asset Value (NAV) of the portfolio to the benefit of the T50 token holders.
+
 # Bitcoin Whitepaper
 The Bitcoin Whitepaper titled **_Bitcoin: A Peer-to-Peer Electronic Cash System_** was published on **_31 October 2008_** by Satoshi Nakamoto.
 
