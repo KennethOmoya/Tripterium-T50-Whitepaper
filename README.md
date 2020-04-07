@@ -1,9 +1,11 @@
 # Tripterium T50
-The Tripterium T50 Whitepaper titled **_Tripterium T50. A Next Generation Cryptocurrency Index Fund with a Venture Capital Feeder Fund_** was published on **_18th May 2018_** by Kenneth Omoya.
+The Tripterium T50 Whitepaper titled **_Tripterium T50. A Next Generation Cryptocurrency Index Fund with a Venture Capital Feeder Fund_** was published on **_18 May 2018_** by Kenneth Omoya.
 
 The paper details Tripterium T50 as a tokenized, closed-end index fund, which passively tracks the top fifty cryptocurrency assets by market capitalisation, in order to deliver healthy returns. It also contains a Venture Capital Feeder Fund, which invests in riskier ventures in order to gain from the higher returns associated with them. **_This allows for Tripterium T50 to benefit from this next generation asset class._**
 
-**_The Tripterium T50 token is an Ethereum ERC20 standard token._**
+**_The Tripterium T50 token is an Ethereum ERC20 standard token._** 
+
+On **_15 June 2018_**, the first Tripterium T50 token was minted. Tripterium T50 has a total of 1 billion tokens in circulation, which is also its total and maximum supply. 
 
 Cryptocurrencies are one of the most important inventions since the inception of the web. They are ushering in a new era of decentralization, privacy, and control of one’s own data that has the potential to revolutionize many parts of society. There are currently over one thousand cryptocurrencies in use, with hundreds more being released each year. Their combined market cap has grown from $10 billion in 2016, to over $400 billion at the time of writing, having previously been much higher.
 
