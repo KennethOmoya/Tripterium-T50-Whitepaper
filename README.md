@@ -1,7 +1,7 @@
 # Tripterium T50
 The Tripterium T50 Whitepaper titled **_Tripterium T50. A Next Generation Cryptocurrency Index Fund with a Venture Capital Feeder Fund_** was published on **_18 May 2018_** by Kenneth Omoya.
 
-The paper details that **_Tripterium T50 has been structured to take advantage of the efficient-market hypothesis (EMH) theory._**
+The paper details that **_"Tripterium T50 has been structured to take advantage of the efficient-market hypothesis (EMH) theory."_**
 
 The Tripterium T50 index fund is a tokenized, closed-end index fund, which passively tracks the top fifty cryptocurrency assets by market capitalisation, in orderwill harness the power of the market to deliver healthy returns. While the Venture Capital Feeder Fund invests in riskier ventures in order to gain from the higher returns associated with them. **_This allows for Tripterium T50 to benefit from this next generation asset class._**
 
